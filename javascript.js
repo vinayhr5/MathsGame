@@ -1,21 +1,3 @@
-//show countdown box
-//reduce time by 1s in loops
-//timeleft?
-//yes->continue
-//no->gameover
-
-//generate new Q&A
-
-//if we click on answer box
-//if we are playing
-//correct?
-//yes
-//increase score
-//show correct box for 1 sec
-//generate new Q&A.
-//no
-//show try again box for 1 sec.
-
 var playing = false;
 var score;
 var action;
