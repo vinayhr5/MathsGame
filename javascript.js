@@ -21,7 +21,7 @@ document.getElementById("startreset").onclick = function () {
     document.getElementById("scorevalue").innerHTML = score;
     //show countdown box
     show("timeremaining");
-    timeRemaining = 10;
+    timeRemaining = 60;
     document.getElementById("timeremainingvalue").innerHTML = timeRemaining;
 
     //hide game over box
